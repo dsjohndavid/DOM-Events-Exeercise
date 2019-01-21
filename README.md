@@ -1,2 +1,2 @@
-# DOM-Events-Exeercise
+# DOM-Events-Exercise
 Demonstration of DOM Events
